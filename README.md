@@ -6,10 +6,10 @@ An end-to-end data analytics project designed to evaluate supermarket sales perf
 *Note: Due to local desktop environment configurations, the live interactive cloud link is restricted. Please find the visual sheets below or download the native `.pbix` file from the `frontend/` folder to interact with the slicers.*
 
 ### Executive Sales Summary
-![Dashboard Page 1](1.png)
+![Dashboard Page 1](frontend/1.png)
 
 ### Sales Forecasting & Performance
-![Dashboard Page 2](2.png)
+![Dashboard Page 1](frontend/2.png)
 
 ---
 
